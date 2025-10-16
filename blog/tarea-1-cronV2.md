@@ -65,19 +65,3 @@ Cron enseña disciplina: preparar, ejecutar, esperar, verificar.
 Cada error es parte del proceso. Iterar, analizar, modificar, comprobar.
 
 
----
-
-# 📁 **Blog Index — `blog/index.md`**
-Crea este archivo para el índice:
-
-```markdown
----
-title: "Lab Notes / Blog"
----
-
-## 🗂️ Lab Notes / Blog Técnico
-
-- [Tarea 1 — Cron & Bash](./tarea-1-cron.md)
-- [Tarea 2 — Limpieza /tmp](./tarea-2-limpieza-tmp.md)
-- [Tarea 3 — Backups automáticos](./tarea-3-backup.md)
-- [Tarea 4 — Reinicio de servicios](./tarea-4-servicios.md)

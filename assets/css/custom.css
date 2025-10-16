@@ -5,3 +5,6 @@
 h1 {
   text-transform: uppercase;
 }
+header a.text-xl {
+  text-transform: uppercase;
+}
